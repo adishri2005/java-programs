@@ -1,5 +1,4 @@
-// 3.	Write a program to find the area of a shape (Rectangle, Square, Circle, Triangle)
-// using method overloading.
+// 3.Write a program to find the area of a shape (Rectangle, Square, Circle, Triangle) using method overloading.
 
 public class areashapes {
 
