@@ -1,4 +1,5 @@
 // 1. Write a Java program that counts how many times a given number appears in an array.
+// dynamic approach
 import java.util.Scanner;
 
 public class occurencecount
