@@ -13,6 +13,8 @@
 // To solve this problem, we used a frequency counter to count the occurrences of each character in both strings.
 // If the frequency of each character in both strings is the same, then the strings are anagrams of each other.
 
+//ANAGRAM CHECKER (HASH MAP APPROACH)
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
