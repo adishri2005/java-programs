@@ -99,7 +99,7 @@ public class TestProgram
     public static void main(String[] args)
     {
         Scanner scanner = new Scanner(System.in);
-        System.out.println.("EMPLOYEE MANAGEMENT SYSTEM");
+        System.out.println("EMPLOYEE MANAGEMENT SYSTEM");
         System.out.print("Enter the number of employees to register: ");
         int numEmployees = scanner.nextInt();
         scanner.nextLine(); // Consume newline
