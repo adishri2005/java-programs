@@ -71,7 +71,7 @@ public class TestProgramVehicle
     public static void main(String[] args)
     {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("CAR MANAGEMENT SYSTEM");
         System.out.print("Enter the make of the car: ");
         String make = scanner.nextLine();
 
