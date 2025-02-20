@@ -51,10 +51,6 @@ public class ChineseChef extends Chef
 
 // MexicanChef class extends Chef class.
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-
 public class MexicanChef extends Chef
 {
     @Override
