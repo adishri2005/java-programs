@@ -1,3 +1,10 @@
+//1.	In a 3D modeling application, define an abstract class named Solid that declares an 
+//  abstract method calculateVolume(). Then, derive two concrete classes—Cuboid and Sphere—from 
+//the Solid class. Each subclass should override calculateVolume() to compute its volume 
+// using the appropriate geometric formula. Finally, in your main method, create objects of Cuboid and Sphere and call their calculateVolume() 
+// methods to display the computed volumes.
+
+
 //PART 1: solid.java
 
 public abstract class Solid {
